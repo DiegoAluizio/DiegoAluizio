@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Diego Oliveira Aluizio. I'm a computer science student in Universidade Presbiteriana Mackenzie
+
+- 📫 How to reach me: diego04aluizio@hotmail.com
+- 😄 Pronouns: He/Him
+
+
 <!--
 **DiegoAluizio/DiegoAluizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+para continuar depois: https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 -->
